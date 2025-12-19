@@ -1,3 +1,5 @@
 /.vscode
 /.idea
 /.DS_Store*
+/01-terraform/.terraform*
+/01-terraform/terraform.tfstate*
